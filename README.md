@@ -1,0 +1,1 @@
+For a project I had in an AIML course, the code is really messy but you'll find a few classes used for scaling and one-hot encoding as well as the Linear Regression class as well. Might work on adding multivariate LR next.
